@@ -1,6 +1,5 @@
 # KNN Classifier from scratch with pandas dataframe
 from collections import defaultdict
-import pandas as pd
 
 
 class KNN:
